@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+.hi-slide .hi-next, .hi-slide .hi-prev{
+    background-color: red;
+}
+body{
+    background-color: antiquewhite;
+}
